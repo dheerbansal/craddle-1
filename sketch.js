@@ -64,11 +64,11 @@ function draw() {
   ball4.display();
   ball5.display();
   ground.display();
-  line(ball1.body.position.x,ball1.body.position.y,540,200)
-  line(ball2.body.position.x,ball2.body.position.y,580,200)
+  line(ball1.body.position.x,ball1.body.position.y,500,200)
+  line(ball2.body.position.x,ball2.body.position.y,560,200)
   line(ball3.body.position.x,ball3.body.position.y,620,200)
-  line(ball4.body.position.x,ball4.body.position.y,660,200)
-  line(ball5.body.position.x,ball5.body.position.y,700,200)
+  line(ball4.body.position.x,ball4.body.position.y,680,200)
+  line(ball5.body.position.x,ball5.body.position.y,730,200)
 
 
  // line(ball2.body.position.x,ball2.body.position.y,ground.body.position.x,ground.body.position.y)
